@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\personaldataconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:personaldataconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\entitytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:entitytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\entitytemlateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:entitytemlateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|c:\\users\\owner\\documents\\visual studio 2022\\projects\\consoleapp2\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59829F23-6BDC-4A74-BFCC-757CE2B0D625}|ConsoleApp2.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EntityTemplate.cs",
+              "RelativeDocumentMoniker": "EntityTemplate.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EntityTemplate.cs",
+              "RelativeToolTip": "EntityTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:26:37.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityTemlateConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EntityTemlateConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityTemlateConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EntityTemlateConfiguration.cs",
+              "RelativeToolTip": "EntityTemlateConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:26:51.485Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Address.cs",
+              "RelativeDocumentMoniker": "Address.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Address.cs",
+              "RelativeToolTip": "Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:25:45.844Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddressConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\AddressConfiguration.cs",
+              "RelativeDocumentMoniker": "AddressConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\AddressConfiguration.cs",
+              "RelativeToolTip": "AddressConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:25:52.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonalData.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PersonalData.cs",
+              "RelativeDocumentMoniker": "PersonalData.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PersonalData.cs",
+              "RelativeToolTip": "PersonalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:31:08.993Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalDataConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PersonalDataConfiguration.cs",
+              "RelativeDocumentMoniker": "PersonalDataConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PersonalDataConfiguration.cs",
+              "RelativeToolTip": "PersonalDataConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:47:56.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:27:29.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PositionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PositionConfiguration.cs",
+              "RelativeDocumentMoniker": "PositionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\PositionConfiguration.cs",
+              "RelativeToolTip": "PositionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:27:40.844Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:27:15.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:27:50.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:28:05.844Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "CompanyConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\CompanyConfiguration.cs",
+              "RelativeToolTip": "CompanyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:28:11.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Context.cs",
+              "RelativeDocumentMoniker": "Context.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Context.cs",
+              "RelativeToolTip": "Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:25:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\Visual Studio 2022\\Projects\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:25:24.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\ValidationTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FB4643-95FA-4E31-8A8F-614BD36E2D18}|ValidationTool.csproj|c:\\users\\owner\\desktop\\validationtool\\ext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FB4643-95FA-4E31-8A8F-614BD36E2D18}|ValidationTool.csproj|solutionrelative:ext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FB4643-95FA-4E31-8A8F-614BD36E2D18}|ValidationTool.csproj|c:\\users\\owner\\desktop\\validationtool\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FB4643-95FA-4E31-8A8F-614BD36E2D18}|ValidationTool.csproj|solutionrelative:range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Range.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ValidationTool\\Range.cs",
+              "RelativeDocumentMoniker": "Range.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ValidationTool\\Range.cs",
+              "RelativeToolTip": "Range.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:41:12.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ext.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\ValidationTool\\Ext.cs",
+              "RelativeDocumentMoniker": "Ext.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\ValidationTool\\Ext.cs",
+              "RelativeToolTip": "Ext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:43:16.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
