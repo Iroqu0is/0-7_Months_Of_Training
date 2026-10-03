@@ -49,8 +49,8 @@ namespace BookShop
                         book_ThreePigs.Reviews.Add(new Review() { Comment = "No Good" });
                         book_ThreePigs.Reviews.Add(new Review() { Comment = "LoL" });
 
-                        book_ThreePigs.BookAuthors.Add(new BookAuthors() { BookId = book_ThreePigs.Id, AuthorId = author_Gomer.Id });
-                        book_ThreePigs.BookAuthors.Add(new BookAuthors() { BookId = book_ThreePigs.Id, AuthorId = author_Sheckspir.Id });
+                        book_ThreePigs.BookAuthors.Add(new BookAuthors() { BookId = book_ThreePigs.BookId, AuthorId = author_Gomer.AuthorId });
+                        book_ThreePigs.BookAuthors.Add(new BookAuthors() { BookId = book_ThreePigs.BookId, AuthorId = author_Sheckspir.AuthorId });
 
                         context.Books.Add(book_ThreePigs);
                         await context.SaveChangesAsync(tracker);

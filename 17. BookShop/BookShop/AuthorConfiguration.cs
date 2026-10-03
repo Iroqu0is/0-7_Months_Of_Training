@@ -5,9 +5,9 @@
         public void Configure(EntityTypeBuilder<Author> builder)
         {
             builder.ToTable("Authors");
-            builder.HasKey(a => a.Id);
+            builder.HasKey(a => a.AuthorId);
 
-            builder.Property(a => a.Id)
+            builder.Property(a => a.AuthorId)
                    .HasColumnName("Id")
                    .IsRequired(true);
 

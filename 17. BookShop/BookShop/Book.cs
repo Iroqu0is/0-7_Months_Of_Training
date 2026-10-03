@@ -2,7 +2,7 @@
 {
     public class Book
     {
-        public int Id { get; set; }
+        public int BookId { get; set; }
         public string Title { get; set; } = null!;
 
         public Exposition? Exposition { get; set; }

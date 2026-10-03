@@ -5,10 +5,10 @@
         public void Configure(EntityTypeBuilder<Book> builder)
         {
             builder.ToTable("Books");
-            builder.HasKey(b => b.Id);
+            builder.HasKey(b => b.BookId);
 
-            builder.Property(b => b.Id)
-                   .HasColumnName("Id")
+            builder.Property(b => b.BookId)
+                   .HasColumnName("BookId")
                    .IsRequired(true);
 
             builder.Property(b => b.Title)
