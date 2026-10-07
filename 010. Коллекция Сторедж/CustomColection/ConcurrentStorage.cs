@@ -635,9 +635,9 @@ namespace CustomColection
         public void Dispose()
         {
             if (isDisposed) return;
-            rw.Dispose();
             handler = null;
             isDisposed = true;
+            rw.Dispose();
             GC.SuppressFinalize(this);
             handler?.Invoke(this, new NotificationEventArgs("Disposed."));
         }
