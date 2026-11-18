@@ -12,7 +12,7 @@ namespace ConsoleApp1
     public static class ConnectionFactory
     {
         private const string SqlConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Encrypt=True";
-        private const string SqliteConnectionString = @"Data Source=C:\App.db;";
+        private const string SqliteConnectionString = @"Data Source=App.db;";
         private const string NpgsqlConnectionString = @"Host=localhost;Port=5432;Database=master;Username=postgres;Password=secret_pass;";
 
         public static DbConnection GetConnection(ConnectionType ctype = ConnectionType.Sql, string? connectionString = null)
@@ -56,7 +56,7 @@ namespace ConsoleApp1
                         command.CommandText = @"create table Users(id int not null primary key identity(1,1),name nvarchar(200) not null,age int not null);";
                         await command.ExecuteNonQueryAsync(tracker);
 
-                        using (var transaction = await connection.BeginTransactionAsync())
+                        using (var transaction = await connection.BeginTransactionAsync(tracker))
                         {
                             try
                             {

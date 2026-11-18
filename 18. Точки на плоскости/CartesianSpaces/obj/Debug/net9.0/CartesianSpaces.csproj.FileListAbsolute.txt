@@ -1,0 +1,14 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\bin\Debug\net9.0\CartesianSpaces.exe
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\bin\Debug\net9.0\CartesianSpaces.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\bin\Debug\net9.0\CartesianSpaces.runtimeconfig.json
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\bin\Debug\net9.0\CartesianSpaces.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\bin\Debug\net9.0\CartesianSpaces.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\refint\CartesianSpaces.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\CartesianSpaces.genruntimeconfig.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\CartesianSpaces\obj\Debug\net9.0\ref\CartesianSpaces.dll
